@@ -2,4 +2,5 @@
 
 Click on the button
 
-https://mybinder.org/v2/gh/linda84715/COVID-19-DASHBOARD.git/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LightsByKC/Covid19DashBoard.git/HEAD)
+Markdown iconCopy markdown link to clipboard
